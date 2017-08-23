@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{238E45F8-69BB-49BB-9BF4-01973D66FA25}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.PracticeProject PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PracticeProject\Source\DefinirteAssignment.cs">
+    <Files>
+      <File FileName="PracticeProject\Source\HelloWorld.cs" Line="6" Column="16" />
+      <File FileName="PracticeProject\Source\Enumeration.cs" Line="8" Column="4" />
+      <File FileName="PracticeProject\Source\DefinirteAssignment.cs" Line="14" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>
