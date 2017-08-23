@@ -1,0 +1,4 @@
+C:\Users\Shashank\Documents\Projects\PracticeProject\PracticeProject\bin\Debug\PracticeProject.exe
+C:\Users\Shashank\Documents\Projects\PracticeProject\PracticeProject\bin\Debug\PracticeProject.pdb
+C:\Users\Shashank\Documents\Projects\PracticeProject\PracticeProject\obj\x86\Debug\PracticeProject.exe
+C:\Users\Shashank\Documents\Projects\PracticeProject\PracticeProject\obj\x86\Debug\PracticeProject.pdb
